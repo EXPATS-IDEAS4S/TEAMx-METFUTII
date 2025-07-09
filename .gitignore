@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+#nohup.out in ignore, also in the subfolders
+nohup.out
+clips/nohup.out
+plots/nohup.out
+downloads/nohup.out

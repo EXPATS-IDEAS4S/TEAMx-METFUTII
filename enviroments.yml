@@ -1,0 +1,14 @@
+# environment.yml
+name: quicklooks_downloader
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - requests
+      - beautifulsoup4
+
+#install the environment using:
+#conda env create -f environment.yml
