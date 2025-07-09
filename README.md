@@ -4,13 +4,13 @@ This repository contains scripts used for preparing data for the METFUTII course
 
 ## Repository Structure
 
-- **download_and_quicklooks/**  
+- **download/**  
   Scripts for downloading TEAMx campaign data and generating quicklook images.
 
-- **plot_quicklooks/**  
+- **plots/**  
   Scripts to plot and visualize the quicklook images.
 
-- **create_video_clips/**  
+- **clips/**  
   Scripts to create video clips (GIF or MP4) from the quicklook images.
 
 ## Usage
